@@ -1,8 +1,4 @@
 /*
- * Author: Nikita Pandya
- * Prof. Snyder
- * CS112 - HW10 B.4
- * April 29, 2015
  * Purpose: A client program that uses the TermFrequencyTable
  * ArticleTable & Article classes, to allow a user to create, modify
  * and interact with a encyclopedia database.
