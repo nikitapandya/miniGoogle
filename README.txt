@@ -1,1 +1,3 @@
 A project called miniGoogle for my Intro to Data Structures class at BU. I was provided with over 2500 articles in a file. With these articles, the basic purpose of this program was to take in user inputted keywords and by using a temp frequency table and algorithm, output three articles that best match the keywords. An example is that if the user inputted ‘canine’, the program would output the following articles: ‘dog’, ‘pet’ and ‘cat’. The additional programs I wrote that miniGoogle uses are MaxHeap, DataBaseIterator, TermFrequencyTable and ArticleTable. These additional data structures allow a user to create, modify and interact with the encyclopedia database. 
+
+Compile and run miniGoogle.java 
